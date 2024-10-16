@@ -1,0 +1,16 @@
+{
+  "name": "practice_js",
+  "version": "1.0.0",
+  "description": "exercices to practice JavaScript",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "commonjs",
+  "module": "ESNext",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "jest-config": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
